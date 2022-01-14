@@ -6,3 +6,11 @@ body{
 html{
     font-size: 70%;
 }
+
+.header-logo{
+    display:flex;
+    flex-flow: row wrap;
+    padding: 10px;
+    margin: 0 auto;
+    background-color: red;
+}
